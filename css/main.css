@@ -13,3 +13,23 @@ height: 30px;
 .header-nav{
     background-color: #111;
 }
+.index1{
+    background-color:#fff;
+}
+.index-bottom{
+    background-color: #222;
+}
+.index{
+height: 60px;
+}
+.servics{
+    background-color: aliceblue;
+}
+.index2{
+    background-color: #fff;
+}
+@media (min-width: 758px){
+    .container{
+        max-width: 770px;
+    }
+}
